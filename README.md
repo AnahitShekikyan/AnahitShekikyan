@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=EED6E6&height=220&section=header&text=Turning%20Data%20Into%20Insight&fontSize=40&fontColor=2F2F2F&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=D9EAF7&height=220&section=header&text=Turning%20Data%20Into%20Insight&fontSize=40&fontColor=2F2F2F&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h1 align="center">Welcome — I’m Anahit Shekikyan, or simply Anna 👋</h1>
