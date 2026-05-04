@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="anna_custom_blue_typing_banner.gif" alt="Turning Data Into Insight" width="1000" />
+  <img src="anna_blue_wriggling_banner.gif" alt="Turning Data Into Insight" width="1000" />
 </p>
 
 <h1 align="center">
