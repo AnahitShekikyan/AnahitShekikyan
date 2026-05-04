@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Turning Data Into Insight" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEC8F5,100:E7EAFE&height=220&section=header&text=Turning%20Data%20Into%20Insight&fontSize=42&fontColor=3B82F6&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h1 align="center">
