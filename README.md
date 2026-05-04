@@ -1,11 +1,11 @@
 <p align="center">
-  <!-- Background banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEC8F5,100:E7EAFE&height=220&section=header&text=%20&fontSize=40&fontColor=2F2F2F" />
+  <!-- Blue waving background -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEC8F5,100:E7EAFE&height=220&section=header&text=%20" />
 </p>
 
 <p align="center">
-  <!-- Animated moving text (glitch effect) -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Turning%20Data%20Into%20Insight&width=900&height=140&fontSize=42&bgColor=FFFFFF00&fontColor=2F2F2F" />
+  <!-- Clean animated blue text -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Insight" />
 </p>
 
 <h1 align="center">
