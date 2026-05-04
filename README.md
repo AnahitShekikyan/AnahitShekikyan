@@ -1,8 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEC8F5,100:E7EAFE&height=220&section=header&text=Turning%20Data%20Into%20Insight&fontSize=40&fontColor=2F2F2F&animation=fadeIn&fontAlignY=38" />
+  <!-- Background banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:AEC8F5,100:E7EAFE&height=220&section=header&text=%20&fontSize=40&fontColor=2F2F2F" />
 </p>
 
-<h1 align="center">Welcome — I’m Anahit Shekikyan, or simply Anna 👋</h1>
+<p align="center">
+  <!-- Animated moving text (glitch effect) -->
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Turning%20Data%20Into%20Insight&width=900&height=140&fontSize=42&bgColor=FFFFFF00&fontColor=2F2F2F" />
+</p>
+
+<h1 align="center">
+  Welcome — I’m Anahit Shekikyan, or simply Anna 👋
+</h1>
 
 <p align="center">
   Building meaningful solutions with data, curiosity, and real-world impact.
